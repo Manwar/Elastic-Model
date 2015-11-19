@@ -174,7 +174,7 @@ The Elastic::Model mailing list is available on:
 L<https://groups.google.com/forum/#!forum/elastic-model>.
 
 The main Elasticsearch mailing list can be found on
-L<http://www.Elasticsearch.org/community/forum/>.
+L<https://discuss.elastic.co/c/elasticsearch>.
 
 =item * GitHub
 
